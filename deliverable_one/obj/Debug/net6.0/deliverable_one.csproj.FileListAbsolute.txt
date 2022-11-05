@@ -1,0 +1,15 @@
+C:\Users\scott\Desktop\GrandCircus\Repositories\deliverable_one\deliverable_one\bin\Debug\net6.0\deliverable_one.exe
+C:\Users\scott\Desktop\GrandCircus\Repositories\deliverable_one\deliverable_one\bin\Debug\net6.0\deliverable_one.deps.json
+C:\Users\scott\Desktop\GrandCircus\Repositories\deliverable_one\deliverable_one\bin\Debug\net6.0\deliverable_one.runtimeconfig.json
+C:\Users\scott\Desktop\GrandCircus\Repositories\deliverable_one\deliverable_one\bin\Debug\net6.0\deliverable_one.dll
+C:\Users\scott\Desktop\GrandCircus\Repositories\deliverable_one\deliverable_one\bin\Debug\net6.0\deliverable_one.pdb
+C:\Users\scott\Desktop\GrandCircus\Repositories\deliverable_one\deliverable_one\obj\Debug\net6.0\deliverable_one.csproj.AssemblyReference.cache
+C:\Users\scott\Desktop\GrandCircus\Repositories\deliverable_one\deliverable_one\obj\Debug\net6.0\deliverable_one.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scott\Desktop\GrandCircus\Repositories\deliverable_one\deliverable_one\obj\Debug\net6.0\deliverable_one.AssemblyInfoInputs.cache
+C:\Users\scott\Desktop\GrandCircus\Repositories\deliverable_one\deliverable_one\obj\Debug\net6.0\deliverable_one.AssemblyInfo.cs
+C:\Users\scott\Desktop\GrandCircus\Repositories\deliverable_one\deliverable_one\obj\Debug\net6.0\deliverable_one.csproj.CoreCompileInputs.cache
+C:\Users\scott\Desktop\GrandCircus\Repositories\deliverable_one\deliverable_one\obj\Debug\net6.0\deliverable_one.dll
+C:\Users\scott\Desktop\GrandCircus\Repositories\deliverable_one\deliverable_one\obj\Debug\net6.0\refint\deliverable_one.dll
+C:\Users\scott\Desktop\GrandCircus\Repositories\deliverable_one\deliverable_one\obj\Debug\net6.0\deliverable_one.pdb
+C:\Users\scott\Desktop\GrandCircus\Repositories\deliverable_one\deliverable_one\obj\Debug\net6.0\deliverable_one.genruntimeconfig.cache
+C:\Users\scott\Desktop\GrandCircus\Repositories\deliverable_one\deliverable_one\obj\Debug\net6.0\ref\deliverable_one.dll
